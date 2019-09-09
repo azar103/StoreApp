@@ -1,0 +1,12 @@
+.shipping-item{
+  background-color: #EEEEEE;
+  padding: 10px;
+  width: 200px;
+  color: #919090;
+  margin: 10px;
+  display: flex;
+}
+#price{
+ margin-left: 33px;
+ align-items: flex-end;
+}

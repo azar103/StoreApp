@@ -1,0 +1,26 @@
+.nav-bar{
+  background: #1976D2;
+  padding: 20px;
+}
+#title-nav{
+  font-size: 30px;
+  color: white;
+  margin-left: 90px;
+  cursor: pointer;
+
+}
+a{
+  text-decoration: none;
+}
+.fancy-button{
+  background-color: white;
+  color: #1976d2;
+  padding: 8px 16px;
+}
+.button{
+  font-size: 14px;
+  display: flex-inline;
+  align-items: center;
+  border-radius: 2px;
+  cursor: pointer;
+}

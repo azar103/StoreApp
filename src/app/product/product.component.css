@@ -1,0 +1,21 @@
+.product-block{
+  padding: 5px;
+}
+p{
+  margin-top: 30px;
+  color: gray;
+  margin-bottom: 15px;
+
+}
+
+.product-btn{
+  background-color: #1976D2;
+  color:white;
+  padding: 8px;
+  width: 80px;
+  border-radius: 4px;
+}
+a{
+  text-decoration: none;
+}
+

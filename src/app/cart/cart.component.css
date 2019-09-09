@@ -1,0 +1,17 @@
+.cart-item{
+  background-color: #EEEEEE;
+  width: 30%;
+  padding: 14px;
+  margin-top: 8px;
+}
+
+h3{
+  color: #717070
+}
+
+span{
+  color: #A2A1A1;
+}
+#price{
+  margin-left: 10px
+}

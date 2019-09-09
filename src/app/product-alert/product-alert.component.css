@@ -1,0 +1,10 @@
+#btn-notify{
+  margin-top: 34px;
+}
+.product-btn{
+  background-color: #1976D2;
+  color:white;
+  padding: 8px;
+  width: 80px;
+  border-radius: 4px;
+}
